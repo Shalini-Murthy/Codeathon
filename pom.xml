@@ -8,7 +8,7 @@
     <artifactId>DevopsPractice</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
-        <finalName> DevopsPractice</finalName>
+        <finalName> devopscourse</finalName>
     </build>
 
 </project>
